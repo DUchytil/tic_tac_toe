@@ -1,4 +1,7 @@
-﻿using System;
+// Program: CSE 210 Tic Tac Toe
+// Author: David Uchytil
+
+using System;
 using System.Collections.Generic;
 
 namespace Cse210Starter
